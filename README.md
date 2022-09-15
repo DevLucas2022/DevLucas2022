@@ -14,8 +14,8 @@ Multiplataforma e sou bolsista de Iniciação Científica.
 <a href="https://www.linkedin.com/in/lucas-santos517/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <br>
 <br>
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DevLucas2022&hide=stars&show_icons=true&theme=tokyonight">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucas2022&show_icons=true&theme=tokyonight&layout=compact">
+<img height="150em"  src="https://github-readme-stats.vercel.app/api?username=DevLucas2022&hide=stars&show_icons=true&theme=tokyonight">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucas2022&show_icons=true&theme=tokyonight&layout=compact">
 <br>
 <br>
 <h3> Linguagens de interesse</h3
