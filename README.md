@@ -11,12 +11,6 @@ Já utilizei algumas outras tecnologias, como por exemplo:
 
 Entusiasta de redes neurais nas horas vagas =)  
 
-<div>
-<a href="https://github.com/DevLucas2022">Git</a>
-<br>
-<a href="https://lucas-portifolio-2022.netlify.app/">Currículo</a>
-<br>
-<br>
 <a href="https://www.instagram.com/lucas_santosrx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a href="https://www.linkedin.com/in/lucas-santos517/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <br>
