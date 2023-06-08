@@ -1,8 +1,15 @@
-<h2> Olá, amigos. Eu sou o Lucas ☺  </h2>
+<h2>Olá, bem-vindo(a) ao meu perfil. Eu sou o Lucas ☺  </h2>
 
-- Faço faculdade de Desenvolvimento de Software 
-Multiplataforma e sou bolsista de Iniciação Científica.
-- Atualmente estou aprendendo mais sobre programação em GPU e linguagens como Java e Python
+Sou um desenvolvedor de software Back-end começando minha jornada e evoluindo constantemente todos os dias!
+As tecnologias que eu estudo e trabalho atualmente são: 
+
+- Python, Java, SpringBoot Framework - Back-end 
+- MySQL e MongoDB - Banco de dados 
+
+Já utilizei algumas outras tecnologias, como por exemplo:
+- R, NodeJS, Django, HTML, Javascript, CUDA (GPU), C++.
+
+Entusiasta de redes neurais nas horas vagas =)  
 
 <div>
 <a href="https://github.com/DevLucas2022">Git</a>
